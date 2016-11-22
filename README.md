@@ -1,5 +1,5 @@
 # Sudoku
-# Sudoku
+
 Sudoku is a game with few simple rules, where the goal is to place nine sets of positive digits (1...9) into the cells of a fixed grid structure (i.e. board).
 
 The Sudoku board (or global grid) consists of a 3x3 arrangement of sub-grids, and each sub-grid is a 3x3 arrangement of cells. This yields a 9x9 arrangement of cells on the Sudoku board.
